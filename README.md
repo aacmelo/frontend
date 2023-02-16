@@ -1,2 +1,2 @@
 # frontend
-Primeiro site contando a história da Computaç
+Primeiro site contando a história da Computação
