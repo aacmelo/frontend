@@ -2,3 +2,17 @@
     background-color: black;
     color: white;
 }
+
+.tituloprincipal {
+    color: red;
+}
+
+.img {
+    margin: auto;
+    display: block;
+    width: 40%;
+}
+
+.captioncenter{
+    text-align: left;
+}
